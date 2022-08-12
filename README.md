@@ -1,11 +1,17 @@
 # URL SHORTENER
 
 [![Everything Is AWESOME](./documents/wp.png)](https://www.youtube.com/watch?v=1HSEJdJ9rww "URL SHORTENER SERVICES")
+
 Proje'de 
 database `mongodb`,
 Backend `NodeJS`
 Client `React`
 Kullanılmıştır.
+
+
+
+
+[Server - Github Link](https://github.com/talpidaex/url-shortener-server)
 
 Kısaltmak istediğimiz url submit ederek, kısaltılmış olanı aldığımız bir servistir.
 
@@ -36,4 +42,3 @@ index.js dosyasında yazıldı. Yapılan get istekleri için;
  
  DB'de var ise, redirect yoksa 404 status code gönderiyoruz.
 
- 
